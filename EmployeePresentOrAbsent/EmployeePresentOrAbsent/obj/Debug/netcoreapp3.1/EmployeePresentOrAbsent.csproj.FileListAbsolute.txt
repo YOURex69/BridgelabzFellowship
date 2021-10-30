@@ -1,0 +1,13 @@
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.exe
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.deps.json
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.runtimeconfig.json
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.dll
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\bin\Debug\netcoreapp3.1\EmployeePresentOrAbsent.pdb
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.dll
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.pdb
+D:\bridgelabz\.NET problems\EmployeePresentOrAbsent\EmployeePresentOrAbsent\obj\Debug\netcoreapp3.1\EmployeePresentOrAbsent.genruntimeconfig.cache
