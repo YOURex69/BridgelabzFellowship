@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.exe
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.deps.json
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.runtimeconfig.json
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.dll
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\bin\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.pdb
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.dll
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.pdb
+D:\bridgelabz\.NET problems\EmployeeWageAndSaveTotalWage\EmployeeWageAndSaveTotalWage\obj\Debug\netcoreapp3.1\EmployeeWageAndSaveTotalWage.genruntimeconfig.cache
