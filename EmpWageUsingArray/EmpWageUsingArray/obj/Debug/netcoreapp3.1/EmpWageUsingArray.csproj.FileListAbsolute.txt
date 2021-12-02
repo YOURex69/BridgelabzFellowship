@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.exe
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.deps.json
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.runtimeconfig.json
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.dll
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\bin\Debug\netcoreapp3.1\EmpWageUsingArray.pdb
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.dll
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.pdb
+D:\bridgelabz\.NET problems\EmpWageUsingArray\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.genruntimeconfig.cache
